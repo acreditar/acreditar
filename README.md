@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="banner.png" alt="edisonlee55 Banner"></a>
+  
 </p>
 
 <h1 align="center">Hi, I'm <a> Dissecar </a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/evitar"><img src="https://github-readme-ss.vercel.app/api?username=evitar&hide_border=true&show_icons=true" alt="evitar's github stats"></a>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evitar)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
