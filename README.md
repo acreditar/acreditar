@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm <a> Dissecar </a>!</h1>
+<h1 align="center">I'm learning C#</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
@@ -13,10 +14,9 @@
  |
   <strong><a href="https://twitter.com/dissecar">Twitter</a></strong> |
   <strong><a>Discord: VoorTex#0606 </a></strong> |
-  
+ |
 </p>
 
-<p align="center">I learning C#</p>
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
