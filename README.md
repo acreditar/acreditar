@@ -2,11 +2,11 @@
 <img hight="300" width="300" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/gifgit.gif">
 </div>
 
-<h1 align="center">Hi, I'm <a> Evitar </a>!</h1>
+<h1 align="center">Hi, I'm <a> Dissecar </a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
-  <a href="https://github.com/evitar"><img src="https://github-readme-stats.vercel.app/api?username=evitar&&show_icons=true&theme=radical" alt="evitar's github stats"></a>
+  <a href="https://github.com/dissecar"><img src="https://github-readme-stats.vercel.app/api?username=dissecarr&&show_icons=true&theme=radical" alt="evitar's github stats"></a>
 </p>
 
 <p align="center">
