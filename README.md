@@ -1,12 +1,12 @@
 <div align="center">
 <img hight="500" width="500" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/serial-lain.gif">
-  |
-  <strong><a href="https://twitter.com/dissecar">Twitter</a></strong> |
-  <strong><a>Discord: VoorTex#0606 </a></strong> |
+ 
 </div>
 
 <h1 align="center">Hi I'm Dissecar and I'm learning C #</a>!</h1>
-
+|
+  <strong align="center"><a href="https://twitter.com/dissecar">Twitter</a></strong> |
+  <strong align="center"><a>Discord: VoorTex#0606 </a></strong> |
 
 <p align="center">
   <a href="https://github.com/dissecar"><img src="https://github-readme-stats.vercel.app/api?username=dissecar&&show_icons=true&theme=radical" alt="evitar's github stats"></a>
