@@ -2,9 +2,8 @@
 <img hight="500" width="500" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/serial-lain.gif">
 </div>
 
-<h1 align="center">Hi, I'm <a> Dissecar </a>!</h1>
-<h1 align="center">I'm learning C#</h1>
-<h1 align="center">Welcome to my GitHub profile</h1>
+<h1 align="center">Hi I'm Dissecar and I'm learning C #</a>!</h1>
+
 
 <p align="center">
   <a href="https://github.com/dissecar"><img src="https://github-readme-stats.vercel.app/api?username=dissecar&&show_icons=true&theme=radical" alt="evitar's github stats"></a>
