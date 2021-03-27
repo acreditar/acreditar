@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="300" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/gifgit.gif">
+<img hight="300" width="300" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/serial-lain.gif">
 </div>
 
 <h1 align="center">Hi, I'm <a> Dissecar </a>!</h1>
