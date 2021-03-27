@@ -1,6 +1,6 @@
-<p align="center">
-  <a ><img src="banner.jpg" alt="evitar Banner"></a>
-</p>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/gifgit.gif">
+</div>
 
 <h1 align="center">Hi, I'm <a> Evitar </a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
