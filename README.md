@@ -14,7 +14,7 @@
  |
   <strong><a href="https://twitter.com/dissecar">Twitter</a></strong> |
   <strong><a>Discord: VoorTex#0606 </a></strong> |
- |
+ 
 </p>
 
 
