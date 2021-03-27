@@ -12,12 +12,7 @@
   <a href="https://github.com/dissecar"><img src="https://github-readme-stats.vercel.app/api?username=dissecar&&show_icons=true&theme=radical" alt="evitar's github stats"></a>
 </p>
 
-<p align="center">
- |
-  <strong><a href="https://twitter.com/dissecar">Twitter</a></strong> |
-  <strong><a>Discord: VoorTex#0606 </a></strong> |
- 
-</p>
+
 
 
 <!--
