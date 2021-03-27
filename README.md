@@ -1,5 +1,8 @@
 <div align="center">
 <img hight="500" width="500" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/serial-lain.gif">
+  |
+  <strong><a href="https://twitter.com/dissecar">Twitter</a></strong> |
+  <strong><a>Discord: VoorTex#0606 </a></strong> |
 </div>
 
 <h1 align="center">Hi I'm Dissecar and I'm learning C #</a>!</h1>
