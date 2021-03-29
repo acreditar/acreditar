@@ -19,7 +19,7 @@
 ```
 
 <div align="center">
-<img hight="500" width="450" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/kenshin.gif">
+<img hight="850" width="318" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/kenshin.gif">
  
 </div>
 
