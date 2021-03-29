@@ -5,20 +5,16 @@
 
 
 ```csharp
-      public static void Main(){
-        var dissecar = new SoftwareDeveloper(){
-            NickName = "Dissecar/VoorTex",
-            MyHobbies = "Coding, Watch Anime, Play Games and studying"
-
+public static void Main(){
+    var dissecar = new SoftwareDeveloper(){
+        NickName = "Dissecar/VoorTex",
+        MyHobbies = "Coding, Watch Anime, Play Games and studying"
         };
-       
-
-        var skills = new Skills(){
+    var skills = new Skills(){
         
-            Languages = new[] { "C#", "JavaScript", "Python" },
-            Technologies = new[] { "Linux" }
+        Languages = new[] { "C#", "JavaScript", "Python" },
+        Technologies = new[] { "Linux" }
         };
-
         dissecar.SetSkill(skills);
 }
     
