@@ -12,14 +12,21 @@
   <a href="https://github.com/dissecar"><img src="https://github-readme-stats.vercel.app/api?username=dissecar&&show_icons=true&theme=synthwave" alt="evitar's github stats"></a>
 </p>
 
-```c
-#include <stdio.h>
-#include <stdlib.h>
-int main(void)
-{
-  const char *discord = "https://discord.gg/v5d3PZ9"
-  const char *twitter = "https://twitter.com/dantaliondev"
-  const char *youtube = "https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw"
-}
+```csharp
+      public static void Main(){
+        var dissecar = new SoftwareDeveloper(){
+            NickName = "Dissecar/VoorTex",
+            MyHobbies = "Coding, Watch Anime, Play Games and studying"
 
+        };
+       
+
+        var skills = new Skills(){
+        
+            Languages = new[] { "C#", "JavaScript", "Python" },
+            Technologies = new[] { "Linux" }
+        };
+
+        dissecar.SetSkill(skills);
+    }
 ```
