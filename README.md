@@ -7,6 +7,7 @@
 ```csharp
 public static void Main(){
     var dissecar = new SoftwareDeveloper(){
+    
         NickName = "Dissecar/VoorTex",
         MyHobbies = "Coding, Watch Anime, Play Games and studying"
         };
