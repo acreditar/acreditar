@@ -1,11 +1,13 @@
-<div align="center">
-<img hight="500" width="650" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/kenshin.gif">
- 
-</div>
-
 <p align="center">
   <a href="https://github.com/dissecar"><img src="https://github-readme-stats.vercel.app/api?username=dissecar&&show_icons=true&theme=synthwave" alt="evitar's github stats"></a>
 </p>
+
+<div align="center">
+<img hight="500" width="450" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/kenshin.gif">
+ 
+</div>
+
+
 
 ```csharp
       public static void Main(){
