@@ -6,9 +6,9 @@
 
 ```csharp
 public static void Main(){
-    var dissecar = new SoftwareDeveloper(){
+    var voortex = new SoftwareDeveloper(){
     
-        NickName = "Dissecar/VoorTex",
+        NickName = "VoorTex",
         MyHobbies = "Coding, Watch Anime, Play Games and studying"
         };
     var skills = new Skills(){
@@ -16,7 +16,7 @@ public static void Main(){
         Languages = new[] { "C#", "JavaScript", "Python" },
         Technologies = new[] { "Linux" }
         };
-        dissecar.SetSkill(skills);
+        voortex.SetSkill(skills);
 }
     
 ```
