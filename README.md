@@ -8,14 +8,14 @@
 public static void Main(){
     var voortex = new SoftwareDeveloper(){
     
-        NickName = "VoorTex",
-        MyHobbies = "Coding, Watch Anime, Play Games and studying"
+        nickName = "VoorTex",
+        myHobbies = "Coding, Watch Anime, Play Games and studying"
         };
     var skills = new Skills(){
         
-        Languages = new[] { "C#" },
+        languages = new[] { "C#" },
         interests = net[] { "functional programming", "pentest", "security"},
-        Technologies = new[] { "Linux" }
+        technologies = new[] { "Linux" }
         };
         voortex.SetSkill(skills);
 }
