@@ -14,7 +14,7 @@ public static void Main(){
     var skills = new Skills(){
         
         languages = new[] { "C#", "JavaScript", "Python" },
-        interests = new[] { "functional programming", "pentest", "security" },
+        interests = new[] { "functional programming", "pentest"},
         technologies = new[] { "Linux", "GitHub", "Vscode" }
         };
         voortex.SetSkill(skills);
