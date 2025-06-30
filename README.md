@@ -1,7 +1,4 @@
-<div align="center">
-<img hight="80" width="80" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/cute.gif">
- 
-</div>
+
 
 
 ```csharp
@@ -22,10 +19,6 @@ public static void Main(){
     
 ```
 
-<div align="center">
-<img hight="80" width="80" alt="GIF" align="center" src="https://github.com/evitar/evitar/blob/main/assets/gifgit.gif">
- 
-</div>
 
 
 
